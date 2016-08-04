@@ -1,0 +1,28 @@
+_repo: Veranilda_4306
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gissing, George
+    alias: Gissing, George Robert
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '641'
+    url: http://www.gutenberg.org/2009/agents/641
+    wikipedia: http://en.wikipedia.org/wiki/George_Gissing
+description: Published posthumously. Unfinished.
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'Italy -- History -- 476-774 -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: Veranilda
+url: http://www.gutenberg.org/ebooks/4306
